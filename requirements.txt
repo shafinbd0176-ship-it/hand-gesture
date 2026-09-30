@@ -1,0 +1,12 @@
+# Hand Gesture Control - dependencies
+#
+# IMPORTANT: See README.md "Python Version" section before installing.
+# MediaPipe does not yet support Python 3.14 at the time of writing;
+# use Python 3.10, 3.11, or 3.12 (64-bit) for a working install.
+
+opencv-python==4.10.0.84
+mediapipe==0.10.14
+numpy==1.26.4
+pyautogui==0.9.54
+pynput==1.7.7
+pywin32==306
